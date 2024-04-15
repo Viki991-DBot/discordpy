@@ -1,2 +1,2 @@
 # discordpy
-SIMPLE DISCORD.PY, READY TO CUSTOMIZE!
+Simple discord.py template, feel free to use!
