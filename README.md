@@ -18,7 +18,9 @@ pkg upgrade && pkg update
 pip install discord.py
 ```
 
-3. Now run the files!
+4. Edit the config.json for your Bot Token!
+
+5. Now run the files!
 ```
 python3 main.py
 ```
